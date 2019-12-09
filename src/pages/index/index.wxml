@@ -1,6 +1,5 @@
 <!--index.wxml-->
 <view class="app index">
-
 	<view class="app__inner">
 		<view class="index__banner">
 			<image src="https://res.jianhui.org/weapp-workflow/weapp-worfkflow@2x.jpg" mode="widthFix"

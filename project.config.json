@@ -1,6 +1,6 @@
 {
-	"client": "./dist",
-	"svr": "./server",
+	"client": "dist/",
+	"svr": "server/",
 	"setting": {
 		"urlCheck": false,
 		"es6": true,
@@ -10,5 +10,7 @@
 	},
 	"appid": "touristappid",
 	"projectname": "weapp-wf",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {}
 }
